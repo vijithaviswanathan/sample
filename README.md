@@ -1,52 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5GqajVEC)
-# MSDS-597 Project
-
-Group: Group 4
-
-## Project summary
-
-Our project summary can be found:
-
-- Data Cleaning
-
-This section describes how the raw data was processed to ensure quality and accuracy.  It includes explanations of how missing data was handled, outliers were addressed, and inconsistencies were resolved.
-
-https://github.com/moran-teaching/project-group-4/blob/main/data_Cleaning.ipynb
-
-- Data Enrichment
-
-This section outlines the methods used to augment the original data with external sources or derived features.  It explains the rationale for these enhancements and the specific data sources used.
-
-https://github.com/moran-teaching/project-group-4/blob/main/data_enrichment.ipynb
-
-- Data Analysis
-
-This section provides an overview of the analytical techniques applied to the prepared data.  It describes the models, statistical methods, or visualizations used to extract meaningful insights.  Key findings and results are also summarized.
-
-https://github.com/moran-teaching/project-group-4/blob/main/data_analysis.ipynb
-
-## Accessing data
-
-Our raw data can be downloaded here:
-
-https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data/data
-
-Our processed data can be downloaded here:
-
-https://www.dropbox.com/scl/fo/z3tiz8nvry5vutae0u78g/ACphYnX1nc1229UYpZ1s0x0?rlkey=im6q6t9obmu0m5jpmyocu2ax8&st=cud7k0oq&dl=0
-
-### Data storage
-
-Our stored data can be found here:
-
-https://www.dropbox.com/scl/fo/1zav3cm11krbaumri4vu6/AHLXbXpP56E02J3PUVJ9Q70?rlkey=32851127lr5palw55vuzjfzdy&st=dxkt7rgx&dl=0
-
-https://drive.google.com/drive/folders/1gQ_gwng9KL_5asGR6HPEII4Ho-QDf4Wg?usp=sharing
-
-https://rutgers.box.com/s/i4j8anppps9x1hbhjwh737308ea9sjar
-
-https://github.com/moran-teaching/project-group-4/network
-
 ### Commit History
 
-https://github.com/vijithaviswanathan/sample/network
+Commit 1:Setting up environment and Directory Structure <br>
+Commit 2:Downloading Dataset from Kaggle<br>
+Commit 3:Fetching data from Alpha Vantage API and Enriching it with technical indicators<br>
+Commit 4:Creating Data Backups in Multiple Formats<br>
+Commit 5:Merging and Enriching the Kaggle dataset with API fetched data<br>
+Commit 6:Added Data Cleaning Initial Preprocessing
+Commit 7:Added Data Cleaning Advanced Interpolation Methods<br>
+Commit 8:Added Data Enrichment with Financial Performance Metrics<br>
+Commit 9:Added Data Validation Checks Framework Implementation<br>
+Commit 10:Added Data Quality Assurance Final Verification<br>
+Commit 11:Added Generalized Summary Stats and some Advanced Analysis<br>
+Commit 12:Added more  Advanced Analysis<br>
+Commit 13:Added Visualizations<br>
+Commit 14:Added Interactive Components with Widgets <br>
+Commit 15:Added News Sentiment Analysis and small changes<br>
+Commit 16:Minor enhancements to code<br>
+Commit 17:Quarto Website Creation<br>
+Commit 18:Quarto website for FAANG stock analysis<br>
+Commit 19:FAANG Stock Data Summary<br>
+Commit 20:Project dependencies 
