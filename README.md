@@ -49,17 +49,4 @@ https://github.com/moran-teaching/project-group-4/network
 
 ### Commit History
 
---> Project dependencies 
---> FAANG Stock Data Summary (43 minutes ago)
---> Quarto website for FAANG stock analysis (70 minutes ago)
---> Quarto Website Creation (87 minutes ago)
---> Minor enhancements to code (7 days ago)
---> Added News Sentiment Analysis and small changes (10 days ago)
---> Added Interactive Components with Widgets (10 days ago)
---> Added Visualizations (10 days ago)
---> Added more  Advanced Analysis (10 days ago)
---> Added Generalized Summary Stats and some Advanced Analysis (10 days ago)
---> Added Data Quality Assurance Final Verification (11 days ago)
---> Added Data Validation Checks Framework Implementation (11 days ago)
---> Added Data Enrichment with Financial Performance Metrics (11 days ago)
---> Added Data Cleaning Advanced Interpolation Methods (11 days ago)
+https://github.com/vijithaviswanathan/sample/network
